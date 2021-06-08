@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState } from 'react';
 import teatre from "./teatre.json"
 import { Text, Title, Button, Container } from "./styles"
